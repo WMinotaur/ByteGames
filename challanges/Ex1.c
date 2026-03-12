@@ -2,14 +2,12 @@
 #include <stdint.h>
 #include <assert.h>
 
+//First challange is easy. Add 1 to every element of array "byteArr". When you suceed HELLO WORLD will be displayed.
+
 
 uint8_t byteArr[] = { 0xAA,0xBB,0xCC,0xFF };
 
 void game(uint8_t* array, size_t length) {
-	//place for bit twiddling
-	//hello world
-	for(uint8_t i = 0; i<length ; i++){
-	array[i] = array[i] + 1;
 	}
 }
 
